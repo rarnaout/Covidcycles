@@ -14,8 +14,6 @@ An interesting way to visualize differences in the various peaks is to plot deat
 
 The function in <a href=:"https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
 
-Please use
-
- as you see fit, as long as it's with attribution.
+Please use as you see fit, as long as it's with attribution.
 
 -- Ramy Arnaout, MD, DPhil
