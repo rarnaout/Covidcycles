@@ -16,7 +16,7 @@ An interesting way to visualize differences in the various peaks is to plot deat
 
 The function in <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
 
-The usual caveats apply regarding reporting, including completeness from some countries and deaths with vs. of COVID-19 (causative vs. incidental).
+The usual caveats apply regarding reporting, including completeness from some countries and deaths with vs. of COVID-19 (incidental vs. causative).
 
 Please use as you see fit, as long as it's with attribution.
 
