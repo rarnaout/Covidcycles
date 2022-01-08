@@ -14,9 +14,9 @@ But omicron on the whole has been much milder. For those who have been recently 
 
 **Here we explore an interesting way to visualize differences in the various waves of the pandemic: plotting deaths as a function of cases.**
 
-The function in <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
+The function `plot_deaths_vs_cases` in the <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">python notebook</a> does this.
 
-The usual caveats apply regarding reporting, including completeness from some countries and deaths with vs. of COVID-19 (incidental vs. causative).
+The data is from https://github.com/owid/covid-19-data, specifically from JHU (public > data > jhu). The usual caveats apply, including completeness from some countries and deaths with vs. of COVID-19 (incidental vs. causative).
 
 Please use as you see fit, as long as it's with attribution.
 
