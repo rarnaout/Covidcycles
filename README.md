@@ -1,8 +1,12 @@
-# Plotting COVID-19 Deaths vs. Cases
+# Visualizing the Pandemic: COVID-19 Deaths vs. Cases
 
 ![](south_africa_010822.png)
 
-Please see <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">covid_deaths_vs_cases.ipynb</a> for other countries.
+<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>.
+
+Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data/Johns Hopkins University</a>.
+
+## About this project
 
 For most of the COVID-19 pandemic, the daily focus has been on the number of cases. 
 
@@ -14,6 +18,8 @@ An interesting way to visualize differences in the various peaks is to plot deat
 
 The function in <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
 
+The usual caveats apply regarding reporting, including completeness from some countries and deaths with vs. of COVID-19 (causative vs. incidental).
+
 Please use as you see fit, as long as it's with attribution.
 
--- Ramy Arnaout, MD, DPhil
+Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022
