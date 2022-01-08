@@ -2,7 +2,7 @@
 
 ![](south_africa_010822.png)
 
-Please see <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">covid_deaths_vs_cases.ipynb</a>
+Please see <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">covid_deaths_vs_cases.ipynb</a> for other countries.
 
 For most of the COVID-19 pandemic, the daily focus has been on the number of cases. 
 
