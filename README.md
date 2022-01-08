@@ -1,4 +1,4 @@
-# Visualizing the Pandemic: COVID-19 Deaths vs. Cases
+# Visualizing Omicron: COVID-19 Deaths vs. Cases
 
 ![](south_africa_010822.png)
 
