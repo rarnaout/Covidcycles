@@ -12,7 +12,7 @@ But omicron on the whole has been much milder. For those who have been recently 
 
 An interesting way to visualize differences in the various peaks is to plot deaths as a function of cases.
 
-The function in <a href=:"https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
+The function in <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">the python notebook</a> `plot_deaths_vs_cases`, does this.
 
 Please use as you see fit, as long as it's with attribution.
 
