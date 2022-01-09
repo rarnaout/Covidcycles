@@ -2,7 +2,7 @@
 
 ![](south_africa_010822.png)
 
-<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb#country_plots">Click here for other countries</a>.
+<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>.
 
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data/Johns Hopkins University</a>.
 
