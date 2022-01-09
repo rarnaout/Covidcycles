@@ -16,7 +16,7 @@ Here we explore an interesting way to visualize differences in the various waves
 
 **It suggests that omicron is indeed quite different.**
 
-The function `plot_deaths_vs_cases` in the <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">python notebook</a> does this.
+<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">The notebook shows plots for many countries</a>. The main function should be self-contained enough for you to copy and paste and use to plot data for any country you like.
 
 The data is from https://github.com/owid/covid-19-data, specifically from JHU (public > data > jhu). The usual caveats apply, including completeness from some countries and deaths with vs. of COVID-19 (incidental vs. causative).
 
