@@ -23,3 +23,16 @@ The data is from https://github.com/owid/covid-19-data, specifically from JHU (p
 Please use as you see fit, as long as it's with attribution.
 
 Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022
+
+## Updates
+
+### January 10, 2022
+
+You are welcome to compare 
+
+- variant frequencies: https://covariants.org/per-country
+- vaccination rates: https://ourworldindata.org/covid-vaccinations
+
+Added Canada, India, and South Korea.
+
+Some cosmetic tweaks to the plots, and added some options.
