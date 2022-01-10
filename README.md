@@ -1,6 +1,6 @@
 # Visualizing Omicron: COVID-19 Deaths vs. Cases
 
-![South_Africa](South Africa_2022-01-09.png)
+![South_Africa](South_Africa_2022-01-09.png)
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>.
 
