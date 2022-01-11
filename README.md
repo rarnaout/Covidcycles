@@ -1,10 +1,31 @@
 # Visualizing Omicron: COVID-19 Deaths vs. Cases
 
-![South_Africa](South_Africa_2022-01-09.png)
+![South_Africa](South_Africa.png)
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>.
 
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data/Johns Hopkins University</a>.
+
+## Updates
+
+### January 11, 2022
+
+Reran with latest data.
+
+Reordered.
+
+High-res PDFs for each country (feel free to download/use with attribution).
+
+### January 10, 2022
+
+You are welcome to compare 
+
+- variant frequencies: https://covariants.org/per-country
+- vaccination rates: https://ourworldindata.org/covid-vaccinations
+
+Added Canada, India, and South Korea.
+
+Some cosmetic tweaks to the plots, and added some options.
 
 ## About this project
 
@@ -24,15 +45,4 @@ Please use as you see fit, as long as it's with attribution.
 
 Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022
 
-## Updates
 
-### January 10, 2022
-
-You are welcome to compare 
-
-- variant frequencies: https://covariants.org/per-country
-- vaccination rates: https://ourworldindata.org/covid-vaccinations
-
-Added Canada, India, and South Korea.
-
-Some cosmetic tweaks to the plots, and added some options.
