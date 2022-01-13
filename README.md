@@ -28,7 +28,7 @@ The data is from https://github.com/owid/covid-19-data, specifically from JHU (p
 
 Please use as you see fit, as long as it's with attribution.
 
-Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022
+Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022 / rarnaout@bidmc.harvard.edu
 
 ## Updates
 
