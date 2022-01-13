@@ -2,7 +2,11 @@
 
 Last updated: January 13, 2022
 
-<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for information about this project.
+<a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. 
+
+See also this <a href="https://github.com/rarnaout/Covidcycles/blob/main/arnaout_preprint.pdf">preprint</a>. 
+
+Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for more information.
 
 ![South_Africa](South_Africa.png)
 
