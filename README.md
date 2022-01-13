@@ -1,6 +1,6 @@
 # Visualizing Omicron: COVID-19 Deaths vs. Cases
 
-Last updated: January 12, 2022
+Last updated: January 13, 2022
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for information about this project.
 
