@@ -2,7 +2,7 @@
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. 
 
-See also this <a href="https://github.com/rarnaout/Covidcycles/blob/main/arnaout_preprint.pdf">preprint</a>. 
+See also this <a href="https://www.researchsquare.com/article/rs-1257935/v1">preprint</a>. 
 
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for more information.
 
