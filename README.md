@@ -1,7 +1,5 @@
 # Visualizing Omicron: COVID-19 Deaths vs. Cases
 
-Last updated: January 13, 2022
-
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. 
 
 See also this <a href="https://github.com/rarnaout/Covidcycles/blob/main/arnaout_preprint.pdf">preprint</a>. 
@@ -31,6 +29,10 @@ Please use as you see fit, as long as it's with attribution.
 Ramy Arnaout, MD, DPhil / Boston, MA / January 8, 2022 / rarnaout@bidmc.harvard.edu
 
 ## Updates
+
+### January 13, 2022
+
+Set to auto-update daily.
 
 ### January 11, 2022
 
