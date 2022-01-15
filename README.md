@@ -4,6 +4,11 @@
 
 See also this <a href="https://www.researchsquare.com/article/rs-1257935/v1">preprint</a>. 
 
+Cite: 
+
+Arnaout, R and Arnaout, R. Visualizing Omicron: COVID-19 Deaths vs. Cases Over Time. 13 January 2022. PREPRINT (Version 1) available at Research Square 
+<a href="https://doi.org/10.21203/rs.3.rs-1257935/v1">https://doi.org/10.21203/rs.3.rs-1257935/v1</a>
+
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for more information.
 
 ![South_Africa](South_Africa.png)
