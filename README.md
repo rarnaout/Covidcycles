@@ -11,9 +11,9 @@ Arnaout, R and Arnaout, R. Visualizing Omicron: COVID-19 Deaths vs. Cases Over T
 
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for more information.
 
-![United States](United States_2022-01-20.png)
+![United States](United_States_2022-01-20.png)
 
-![South Africa](South Africa_2022-01-20.png))
+![South Africa](South_Africa_2022-01-20.png))
 
 ## About this project
 
