@@ -2,6 +2,8 @@
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. 
 
+![United States](United_States.png)
+
 **Countries where omicron has peaked:**
 
 - 2022-01-21: United States
@@ -20,8 +22,6 @@ Arnaout, R and Arnaout, R. Visualizing Omicron: COVID-19 Deaths vs. Cases Over T
 <a href="https://doi.org/10.21203/rs.3.rs-1257935/v1">https://doi.org/10.21203/rs.3.rs-1257935/v1</a>
 
 Data is from <a href="https://github.com/owid/covid-19-data">Our World in Data</a> and <a href="https://covariants.org/per-country/">CoVariants.org</a>. Scroll down for more information.
-
-![United States](United_States.png)
 
 ## About this project
 
