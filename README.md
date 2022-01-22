@@ -2,9 +2,19 @@
 
 <a href="https://github.com/rarnaout/Covidcycles/blob/main/covid_deaths_vs_cases.ipynb">Click here for other countries</a>. 
 
+**Countries where omicron has peaked:**
+
+- 2022-01-21: United States
+- 2022-01-21: Sweden
+- 2022-01-18: Australia
+- 2022-01-14: Ireland
+- 2022-01-13: Finland
+- 2022-01-11: Canada
+- 2022-01-10: United Kingdom 
+
 See also this <a href="https://www.researchsquare.com/article/rs-1257935/v1">preprint</a>. 
 
-Cite: 
+Cite:
 
 Arnaout, R and Arnaout, R. Visualizing Omicron: COVID-19 Deaths vs. Cases Over Time. 13 January 2022. PREPRINT (Version 1) available at Research Square 
 <a href="https://doi.org/10.21203/rs.3.rs-1257935/v1">https://doi.org/10.21203/rs.3.rs-1257935/v1</a>
