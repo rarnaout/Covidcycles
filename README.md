@@ -14,7 +14,7 @@
 - 2022-01-11: Canada
 - 2022-01-10: United Kingdom 
 
-See also this <a href="https://www.researchsquare.com/article/rs-1257935/v1">preprint</a>. 
+See also this <a href="https://www.researchsquare.com/article/rs-1257935/v1">preprint</a>.
 
 Cite:
 
