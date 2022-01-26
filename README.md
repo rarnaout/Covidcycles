@@ -8,7 +8,6 @@
 
 - 2022-01-23: Italy
 - 2022-01-21: United States
-- 2022-01-21: Sweden
 - 2022-01-18: Australia
 - 2022-01-14: Ireland
 - 2022-01-13: Finland
