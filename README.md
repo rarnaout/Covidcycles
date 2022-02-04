@@ -6,7 +6,12 @@
 
 **Countries where omicron has peaked:**
 
-- 2022-01-28: Israel
+- 2022-02-01: Sweden
+- 2022-01-31: Pakistan
+- 2022-01-30: France
+- 2022-01-29: Cuba, **World**
+- 2022-01-28: Mexico, Israel
+- 2022-01-27: India
 - 2022-01-23: Italy
 - 2022-01-21: United States
 - 2022-01-19: Finland
